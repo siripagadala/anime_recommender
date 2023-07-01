@@ -1,2 +1,2 @@
 # anime_recommender
-rudimentary anime recommendary model
+rudimentary anime recommender model
